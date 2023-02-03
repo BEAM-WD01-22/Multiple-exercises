@@ -78,8 +78,8 @@ span{
 }
 #circle{
     font-size: 48px;
-    opacity: 0.5;
+    color: #F4EBFF;
     position: absolute;
-   bottom: 5%;
-   left: 20%;
+  right: 91%;
+   top: 32%;
 }
